@@ -1,6 +1,6 @@
-package com.login.service;
+package com.usuarios.service;
 
-import com.login.model.input.Hijos;
+import com.usuarios.model.input.Hijos;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Modifying;
 import org.springframework.data.jpa.repository.Query;

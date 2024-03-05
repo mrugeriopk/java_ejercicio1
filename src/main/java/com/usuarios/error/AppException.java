@@ -1,4 +1,4 @@
-package com.login.error;
+package com.usuarios.error;
 
 import org.springframework.web.bind.MethodArgumentNotValidException;
 import org.springframework.web.bind.annotation.ExceptionHandler;

@@ -1,4 +1,4 @@
-package com.login.model.input;
+package com.usuarios.model.input;
 
 import lombok.Getter;
 import lombok.Setter;

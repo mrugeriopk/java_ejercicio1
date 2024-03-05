@@ -1,7 +1,7 @@
-package com.login.controller;
+package com.usuarios.controller;
 
-import com.login.model.input.Usuarios;
-import com.login.service.Iservice;
+import com.usuarios.model.input.Usuarios;
+import com.usuarios.service.Iservice;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

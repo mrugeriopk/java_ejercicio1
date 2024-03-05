@@ -1,9 +1,9 @@
-package com.login.service;
+package com.usuarios.service;
 
 
 
-import com.login.model.input.Hijos;
-import com.login.model.input.Usuarios;
+import com.usuarios.model.input.Hijos;
+import com.usuarios.model.input.Usuarios;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

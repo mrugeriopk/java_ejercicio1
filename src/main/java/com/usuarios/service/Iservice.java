@@ -1,6 +1,6 @@
-package com.login.service;
+package com.usuarios.service;
 
-import com.login.model.input.Usuarios;
+import com.usuarios.model.input.Usuarios;
 import org.springframework.http.ResponseEntity;
 
 public interface Iservice {
